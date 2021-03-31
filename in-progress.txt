@@ -1,0 +1,16 @@
+Hello, this is a note saying that this site is still under heavy construction. 
+None of the information here is usable as of yet, due to the fact that the web
+developers are still working on actually getting the site into a usable state!
+
+This site is, in fact, only online and visible for testing. Do not expect any-
+thing of particular interest yet. Many web pages are still broken. We are just
+trying to make sure everything functions as intended.
+
+Thank you for your interest in the Fivnex Improving Computational Understandi-
+ng. We hope to build something wonderful with our experiments.   These are not
+products by Fivnex or the Fivnex Foundation. FICU is owned by the Fivnex Foun-
+dation.  None of these are officially products,  and are not recommended to be
+used in professional productions.
+
+- Kai Lyons
+CEO/Founder (kai@fivnex.co)
