@@ -10203,10 +10203,6 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   background-image: linear-gradient(#381f64, #7289da);
 }
 
-.cntr {
-  text-align: center;
-}
-
 .bnnrtxt {
   background-color: #2e2e2e;
   border-radius: 2rem;
@@ -10219,6 +10215,26 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .wrn {
   background-color: red;
   color: white;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.is-active {
+  display: block;
+  width: 50%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.is-active {
+  display: initial;
+}
+
+.cntr {
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */
